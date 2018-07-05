@@ -1,0 +1,110 @@
+h1 {
+ text-align: center;
+ font-style: italic;
+ color: rgb(48, 45, 45);
+ height: 2rem;
+}
+
+.row {
+margin: 2%;
+text-align: right;
+width: 100%; /* Ширина слоя */
+height: 40px;
+margin: 1px; /* Значение отступов */
+padding: 1px; /* Поля вокруг текста */
+border: none; /* Параметры границы */
+background: cornflowerblue; /* Цвет фона */
+
+}
+
+.target a {
+color: yellow; 
+font-family: 'Varela Round';
+font-size: 30px;
+margin-right: 2%;
+margin-top: 20px;
+text-decoration: none;
+}
+
+UL p {
+margin: 0%;
+color: rgb(44, 29, 247);
+font-family: 'areal';
+font-weight: bold;
+height: 2em;
+line-height: 3em;
+font-size: 20px;
+font-weight: 300px;
+text-transform: uppercase;
+}
+
+a {
+    color: yellow; 
+    font-family: 'Varela Round';
+    font-size: 30px;
+    margin-right: 2%;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+a:visited {
+color: #fcec06; /* Цвет посещенной ссылки */
+} 
+
+a:hover {
+text-decoration: none; /* Убираем подчеркивание */
+color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+}
+
+.thems {
+    text-align: left;
+    position: block;
+    margin-top: 0%;
+    margin-right: 2%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    height: 500px;
+    width: 13%;
+    background: white;
+    float: left;
+}
+
+li {
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 200%;
+}
+
+li:hover {
+    color: white;
+    background: blue;
+    font-weight: bold;
+}
+
+.content {
+    position: block;
+    margin-right: 3%;
+    margin-bottom: 1%;
+    height: 450px;
+    width: 80%;
+    float: right;
+    vertical-align: text-top; 
+}
+
+.content p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.content_new {
+    position: block;
+    margin-right: 3%;
+    margin-bottom: 2%;
+    height: 115px;
+    width: 80%;
+    background: rgb(226, 225, 225);
+    float: right; 
+}

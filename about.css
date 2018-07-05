@@ -1,0 +1,76 @@
+  header {
+    margin-top: 0%;
+    font-family: 'time new roman';
+    font-weight: bold;
+    height: 3em;
+    line-height: 3em;
+    font-size: 20px;
+    font-weight: 300px;
+  }
+
+ h1 {
+     text-align: center;
+     font-style: italic;
+     color: rgb(48, 45, 45);
+     height: 2rem;
+ }
+  
+  .row {
+    margin-bottom: 0%;
+    text-align: right;
+    width: 100%; /* Ширина слоя */
+    height: 40px;
+    margin: 1px; /* Значение отступов */
+    padding: 1px; /* Поля вокруг текста */
+    border: none; /* Параметры границы */
+    background: cornflowerblue; /* Цвет фона */
+
+  }
+
+ .target a {
+    color: yellow; 
+    font-family: 'Varela Round';
+    font-size: 30px;
+    margin-right: 2%;
+    margin-top: 20px;
+    text-decoration: none;
+  }
+
+  UL p {
+    margin: 0%;
+    color: rgb(44, 29, 247);
+    font-family: 'areal';
+    font-weight: bold;
+    height: 2em;
+    line-height: 3em;
+    font-size: 20px;
+    font-weight: 300px;
+    text-transform: uppercase;
+  }
+
+  #share-buttons img {
+    width: 30px;
+    padding: 0px;
+    border: none;
+    box-shadow: 0;
+    position: relative; /* Относительное позиционирование */
+    left: 45%;
+    }
+
+   a {
+        color: yellow; 
+        font-family: 'Varela Round';
+        font-size: 30px;
+        margin-right: 2%;
+        margin-top: 20px;
+        text-decoration: none;
+   }
+
+   a:visited {
+    color: #fcec06; /* Цвет посещенной ссылки */
+   } 
+
+   a:hover {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+   }

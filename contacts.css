@@ -1,0 +1,122 @@
+body {
+    background-image: url(http://amurtour.com.ua/wp-content/uploads/2014/01/%D1%84%D0%BE%D0%BD-%D1%81%D0%B0%D0%B9%D1%82%D0%B0.jpg);
+    background-size: contain;  
+  }
+  
+  header {
+    margin-top: 0%;
+    background-color: floralwhite;
+    border-bottom: 1px solid #dbd4ec;
+  }
+  
+
+  .row {
+    margin-bottom: 0%;
+    text-align: right;
+    width: 100%; /* Ширина слоя */
+    height: 40px;
+    margin: 1px; /* Значение отступов */
+    padding: 1px; /* Поля вокруг текста */
+    border: none; /* Параметры границы */
+    background: cornflowerblue; /* Цвет фона */
+    border-bottom: 2px solid #d8dde4;
+
+  }
+
+ .target a {
+    color: yellow; 
+    font-family: 'Varela Round';
+    font-size: 30px;
+    margin-right: 2%;
+    margin-top: 20px;
+    text-decoration: none;
+  }
+
+    ul {
+    margin: 0px auto;
+    padding: 0 20px;
+    text-align: right;
+  }
+  
+  UL p {
+    margin: 0%;
+    color: rgb(44, 29, 247);
+    font-family: 'areal';
+    font-weight: bold;
+    height: 2em;
+    line-height: 3em;
+    font-size: 20px;
+    font-weight: 300px;
+    text-transform: uppercase;
+  }
+  
+  li:hover {
+    color: #DBE9EE;
+  }
+  
+  h1 {
+    color: #5e4695;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  .contact_add_map {
+    margin: 2%;
+    width: 100%;
+    display:inline-block;
+  }
+
+    .map {
+        float: right;
+        width: 49%;
+        margin-right: 0%;
+            }
+
+    .welcome {
+        padding: 5px;
+        text-align: start;
+        width: 48%;
+        margin-right: 2%;
+        float: left;
+      }
+
+  p {
+    color: #333;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+  }
+    
+  footer {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+  
+  footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+
+  footer ul {
+    list-style: none;
+  }
+  
+  
+  footer li img {
+    width: 32px;
+    height: 32px;
+  }
+  
+  #share-buttons img {
+    width: 30px;
+    padding: 0px;
+    border: none;
+    box-shadow: 0;
+    position: relative; /* Относительное позиционирование */
+    left: 45%;
+    }
